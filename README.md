@@ -5,7 +5,9 @@
 
 ## Examples code
 - can be played on vga-playground.com: https://vga-playground.com/?repo=https://github.com/oldyosesawin/teach_hw
+- can be played flappy bird on vga-playgound.com: https://vga-playground.com/ 
 - vga-playground will read verilog file to load from info.yaml.
+- vga-playground will read verilog file to load from bird.yaml.
 - This repo contain many example projects, try each example by commentting out a group of .v file of the other examples in info.yaml file
 1. Display image
 2. Text mode display
